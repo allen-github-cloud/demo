@@ -1,8 +1,8 @@
 {
   "get": [
     { "ipAddress": "192.168.0.1"},
-    { "ipAddress": '192.168.0.2'},
-		{ "ipAddress": '192.168.0.4'}
+    { "ipAddress": "192.168.0.2"},
+    { "ipAddress": "192.168.0.4"}
   ],
   "post": [
     { "id": 1, "body": "some comment", "postId": 1 },
